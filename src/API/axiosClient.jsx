@@ -33,3 +33,11 @@ axiosClient.interceptors.response.use(
   }
 );
 export default axiosClient;
+
+
+
+// {
+// 	"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NTNiN2JhZDMyMGFiYTI3NjcwNDAzNDUiLCJuYW1lIjoiaGlldSIsInJvbGUiOiJjbGllbnQiLCJpYXQiOjE2OTg1NjM2NDYsImV4cCI6MTY5ODY1MDA0Nn0.AIa3g6g0hYKCtgUZpdgJ53zf_gYDg2m8IpB-xeR3XUg",
+// 	"id": "653b7bad320aba2767040345",
+// 	"fullname": "hieu"
+// }
