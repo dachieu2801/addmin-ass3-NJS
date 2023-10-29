@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/addmin-ass3-NJS/static/css/main.dab918e5.css",
+    "main.js": "/addmin-ass3-NJS/static/js/main.db70748a.js",
+    "index.html": "/addmin-ass3-NJS/index.html",
+    "main.dab918e5.css.map": "/addmin-ass3-NJS/static/css/main.dab918e5.css.map",
+    "main.db70748a.js.map": "/addmin-ass3-NJS/static/js/main.db70748a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dab918e5.css",
+    "static/js/main.db70748a.js"
+  ]
+}
