@@ -49,7 +49,8 @@ const UpDateProduct = () => {
     const response = await axios(
       {
         method: "PUT",
-        url: 'https://nodejs-assign3.onrender.com/admin/edit',
+        // url: 'https://nodejs-assign3.onrender.com/admin/edit',
+        url: 'http://localhost:5000/admin/edit',
         data: formData,
         headers: {
           'Content-Type': 'multipart/form-data',

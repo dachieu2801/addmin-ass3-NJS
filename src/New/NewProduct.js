@@ -32,7 +32,8 @@ const NewProduct = () => {
       const response = await axios(
         {
           method: "POST",
-          url: 'https://nodejs-assign3.onrender.com/admin/create',
+          // url: 'https://nodejs-assign3.onrender.com/admin/create',
+          url: 'http://localhost:5000/admin/create',
           data: formData,
           headers: {
             'Content-Type': 'multipart/form-data',
